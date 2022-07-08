@@ -26,7 +26,7 @@ public class TestClass {
 		return "test";
 	}	
 	
-	public String getN() {
+	public String getConfig() {
 		return this.name +"; "+ this.ex +"; "+ this.test+"; "+ testP.toString();
 	}
 }
